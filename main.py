@@ -1,2 +1,2 @@
 # prints hello world to stdout
-print("asd")
+print("Hello, python")
